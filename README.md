@@ -1,7 +1,8 @@
 # End to End Data/Business Analytics Project (Power BI)
 # 📊 Credit Card Weekly Dashboard (Power BI)
+
 📌 An interactive Credit Card Weekly Dashboard providing real-time insights into revenue, transactions, and customer behavior.
----
+
 
 ## 2. Short Description / Purpose / Objective
 🎯 This dashboard helps stakeholders monitor credit card performance by analyzing revenue trends, customer segments, and transaction patterns.  
