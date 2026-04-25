@@ -64,11 +64,12 @@ To create a centralized dashboard that tracks key performance metrics such as re
 ## 6.📸 Dashboard Preview
 
 [Credit Card Dashboard](https://github.com/himanshuk1511/Credit-Card-Financial-Dashboard-using-PowerBI/blob/main/Credit_card_Financial_Weekly_Dashboard.pdf)
+
 <img width="983" height="559" alt="Screenshot 2026-03-27 034034" src="https://github.com/user-attachments/assets/9756803e-13e2-4aaf-b0d9-2f6a0436a11a" />
----
+<img width="965" height="546" alt="image" src="https://github.com/user-attachments/assets/87d7fd77-06c3-45bb-b3e6-ccec6d0ded4f" />
+
 
 ## 📌 Conclusion
 💡 This dashboard provides a comprehensive view of credit card operations, enabling stakeholders to track performance, identify trends, and make informed decisions to improve revenue and customer engagement.
 
 ---
-<img width="983" height="559" alt="Screenshot 2026-03-27 034034" src="https://github.com/user-attachments/assets/9756803e-13e2-4aaf-b0d9-2f6a0436a11a" />
