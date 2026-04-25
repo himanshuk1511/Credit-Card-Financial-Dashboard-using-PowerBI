@@ -29,7 +29,7 @@ It includes:
 • 🪪 Card categories (Blue, Silver, Gold, Platinum)  
 • 📅 Weekly transaction data for trend analysis  
 
-Data was imported from CSV files into SQL and then connected to Power BI for analysis. :contentReference[oaicite:0]{index=0}  
+Data was imported from CSV files into SQL and then connected to Power BI for analysis.
 
 ---
 
@@ -42,7 +42,7 @@ Financial institutions need a clear and real-time understanding of credit card u
 To create a centralized dashboard that tracks key performance metrics such as revenue, transactions, customer segmentation, and weekly trends.
 
 ### • 📊 Walkthrough of Key Visuals
-• 📌 KPI Cards showing Total Revenue (56.5M), Total Interest (8M), Transaction Amount (46M), and Transaction Count (667K) :contentReference[oaicite:1]{index=1}  
+• 📌 KPI Cards showing Total Revenue (56.5M), Total Interest (8M), Transaction Amount (46M), and Transaction Count (667K)  
 • 📈 Quarterly Revenue vs Transaction Count trend analysis  
 • 🧾 Revenue breakdown by expenditure type (Bills, Fuel, Grocery, etc.)  
 • 👥 Customer segmentation by job, education, and income group  
@@ -51,7 +51,7 @@ To create a centralized dashboard that tracks key performance metrics such as re
 • 🧑‍🤝‍🧑 Customer insights including gender, age group, marital status, and dependents  
 • 🗺 Top contributing states analysis  
 
-### • 📉 Business Impact & Insights
+###  📉 Business Impact & Insights
 • 🚀 Revenue increased by 28.8% week-over-week (latest week analysis) :contentReference[oaicite:2]{index=2}  
 • 💰 Overall revenue reached 57M with strong contribution from transactions  
 • 👨 Male customers contribute higher revenue (31M vs 26M)  
