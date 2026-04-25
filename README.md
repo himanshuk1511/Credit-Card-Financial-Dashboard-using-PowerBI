@@ -4,12 +4,12 @@
 📌 An interactive Credit Card Weekly Dashboard providing real-time insights into revenue, transactions, and customer behavior.
 
 
-## 2. Short Description / Purpose / Objective
+## 2. Purpose / Objective
 🎯 This dashboard helps stakeholders monitor credit card performance by analyzing revenue trends, customer segments, and transaction patterns.  It enables data-driven decision-making to improve financial performance and customer engagement.
 
 ---
 
-## 3. Tech Stack / Process
+## 3. Tech Stack 
 🛠 The dashboard was built using the following tools and technologies:
 
 • 📊 Power BI Desktop – Main data visualization platform used for report creation  
