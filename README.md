@@ -24,6 +24,7 @@
 ## 4. Data Source
 📂 The data is sourced from a SQL database containing credit card transaction and customer details.  
 It includes:
+
 • 👤 Customer demographics (age, income, job, education)  
 • 💳 Transaction details (amount, count, interest earned)  
 • 🪪 Card categories (Blue, Silver, Gold, Platinum)  
