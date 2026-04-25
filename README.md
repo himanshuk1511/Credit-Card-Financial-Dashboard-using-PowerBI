@@ -5,8 +5,7 @@
 
 
 ## 2. Short Description / Purpose / Objective
-🎯 This dashboard helps stakeholders monitor credit card performance by analyzing revenue trends, customer segments, and transaction patterns.  
-It enables data-driven decision-making to improve financial performance and customer engagement.
+🎯 This dashboard helps stakeholders monitor credit card performance by analyzing revenue trends, customer segments, and transaction patterns.  It enables data-driven decision-making to improve financial performance and customer engagement.
 
 ---
 
@@ -24,7 +23,6 @@ It enables data-driven decision-making to improve financial performance and cust
 
 ## 4. Data Source
 📂 The data is sourced from a SQL database containing credit card transaction and customer details.  
-
 It includes:
 • 👤 Customer demographics (age, income, job, education)  
 • 💳 Transaction details (amount, count, interest earned)  
