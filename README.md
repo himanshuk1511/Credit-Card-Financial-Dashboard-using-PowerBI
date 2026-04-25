@@ -1,9 +1,6 @@
 # End to End Data/Business Analytics Project (Power BI)
 # 📊 Credit Card Weekly Dashboard (Power BI)
-
-## 1. Project Title / Headline
 📌 An interactive Credit Card Weekly Dashboard providing real-time insights into revenue, transactions, and customer behavior.
-
 ---
 
 ## 2. Short Description / Purpose / Objective
