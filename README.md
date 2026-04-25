@@ -64,7 +64,7 @@ To create a centralized dashboard that tracks key performance metrics such as re
 ## 6.📸 Dashboard Preview
 
 [Credit Card Dashboard](https://github.com/himanshuk1511/Credit-Card-Financial-Dashboard-using-PowerBI/blob/main/Credit_card_Financial_Weekly_Dashboard.pdf)
-
+<img width="983" height="559" alt="Screenshot 2026-03-27 034034" src="https://github.com/user-attachments/assets/9756803e-13e2-4aaf-b0d9-2f6a0436a11a" />
 ---
 
 ## 📌 Conclusion
