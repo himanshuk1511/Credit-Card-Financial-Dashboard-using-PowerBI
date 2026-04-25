@@ -1,5 +1,4 @@
 # End to End Data/Business Analytics Project (Power BI)
-Credit Card Transaction and Customer Dashboard using Power BI
 # 📊 Credit Card Weekly Dashboard (Power BI)
 
 ## 1. Project Title / Headline
