@@ -61,14 +61,9 @@ To create a centralized dashboard that tracks key performance metrics such as re
 
 ---
 
-## 6. Screenshots / Demos
+## 6.📸 Dashboard Preview
 
-### 📸 Dashboard Preview
-![Credit Card Transaction Dashboard](Screenshot.png)
-
-Additional dashboard views include:
-• 📊 Credit Card Transaction Report  
-• 👥 Credit Card Customer Report  
+[Credit Card Dashboard]([Screenshot.png](https://github.com/himanshuk1511/Credit-Card-Financial-Dashboard-using-PowerBI/blob/main/Credit_card_Financial_Weekly_Dashboard.pdf))
 
 ---
 
