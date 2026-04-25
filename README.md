@@ -41,7 +41,7 @@ Financial institutions need a clear and real-time understanding of credit card u
 ### • 🎯 Goal of the Dashboard
 To create a centralized dashboard that tracks key performance metrics such as revenue, transactions, customer segmentation, and weekly trends.
 
-### • 📊 Walkthrough of Key Visuals
+### 📊 Walkthrough of Key Visuals
 • 📌 KPI Cards showing Total Revenue (56.5M), Total Interest (8M), Transaction Amount (46M), and Transaction Count (667K)  
 • 📈 Quarterly Revenue vs Transaction Count trend analysis  
 • 🧾 Revenue breakdown by expenditure type (Bills, Fuel, Grocery, etc.)  
